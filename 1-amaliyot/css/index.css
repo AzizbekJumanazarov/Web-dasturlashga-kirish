@@ -1,0 +1,10 @@
+* {
+    font-family: monospace, sans-serif;
+    font-size: 21px;
+}
+
+table, th, td {
+    padding: 15px 10px;
+    border: 2px solid cadetblue;
+    border-collapse: collapse;
+}
